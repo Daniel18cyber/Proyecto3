@@ -1,0 +1,41 @@
+body{
+background-image: linear-gradient(to top, #dca4c4, #d1a4cb, #c4a5d1, #b5a7d4, #a6a8d6, #99abd6, #8eadd3, #85afcf, #81b1c8, #82b3c0, #87b3b8, #8eb3b1);
+}
+body{
+background-image: linear-gradient(to top, #dca4c4, #d1a4cb, #c4a5d1, #b5a7d4, #a6a8d6, #99abd6, #8eadd3, #85afcf, #81b1c8, #82b3c0, #87b3b8, #8eb3b1);
+}
+h1{
+  
+  text-transform: uppercase;
+  color: #00331a;
+}
+
+p {
+font-family: courier
+}
+
+img{
+padding: 50px;
+margin: 20px;
+}
+
+
+#foto{
+font-family: courier
+}
+
+h3{
+font-family: Century Gothic, sans-serif;
+}
+
+h2{
+font-family: Century Gothic, sans-serif;
+}
+ 
+#lista{ 
+  width: 400px;
+  padding: 10px;
+  border: 5px solid cornflowerblue;
+ }
+
+
